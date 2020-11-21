@@ -2,6 +2,5 @@
 
 Esta saga de libros cuentan la historia de un *hacker* excepcional.
 
-**Alberto Casero**, Git fan.
+**Alberto Casero**, Git & Larry Plotter fan.
 alberto@kasfactory.net
-
